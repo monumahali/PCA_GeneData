@@ -10,3 +10,7 @@
 **Assignment-2 Meta data sheet (2) (1) (1) (1).csv** is the file containing meta data.  
 **Assignment-2 (2) (1) (1) (1).pdf** containg the information about the data and the problem statement.  
 
+## Conclusion
+
+As we can see from the plots that samples from the same timepoints are clustered together.
+This means that genes at the same timepoints behave similarly and genes at different timepoints behave differently.
